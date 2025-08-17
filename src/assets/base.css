@@ -15,10 +15,10 @@
   --gray-900: #0d0d0d;
 
   /* Success, Warning, Danger, Info */
+  --info: #3b82f6;
   --success: #22c55e;
   --warning: #facc15;
   --danger: #ef4444;
-  --info: #3b82f6;
 
   --primary: #0a7aff;
   --on-primary: #fff;
